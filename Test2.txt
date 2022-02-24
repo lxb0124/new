@@ -1,6 +1,3 @@
 abc
-<<<<<<< HEAD
-增加内容 by main
-=======
 cba by dev
->>>>>>> dev
+
